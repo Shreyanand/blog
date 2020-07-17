@@ -1,1 +1,1 @@
-Sitemap: https://shreyanand.github.io/fastpages_test/sitemap.xml
+Sitemap: https://shreyanand.github.io/blog/sitemap.xml
